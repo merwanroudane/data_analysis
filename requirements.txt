@@ -1,4 +1,5 @@
 streamlit
+statsmodels
 openpyxl
 pandas
 numpy
